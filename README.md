@@ -1,5 +1,6 @@
 # free-books
 
+- (2023/11/25) [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) - Christopher M. Bishop & Hugh Bishop
 - (2023/10/13) [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Simon J. D. Prince
 - (2023/08/15) [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - Kevin P. Murphy
 - (2023/06/22) [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Kevin P. Murphy
