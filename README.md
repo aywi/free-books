@@ -1,5 +1,6 @@
 # free-books
 
+- (2025/09/01) [Deep Learning with Python - 3rd Edition](https://deeplearningwithpython.io/) - François Chollet & Matthew Watson
 - (2023/11/25) [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) - Christopher M. Bishop & Hugh Bishop
 - (2023/10/13) [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Simon J. D. Prince
 - (2023/08/15) [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - Kevin P. Murphy
